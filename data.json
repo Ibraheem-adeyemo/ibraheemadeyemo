@@ -1,0 +1,108 @@
+{
+    "bannerData": {        
+        "userImage":"/images/ibraheem.adeyemo.png",
+        "name":"Ibraheem Adeyemo",
+        "professionalInfo":["I'm a web developer","I'm a full stack engineer", "I write React, Angular, Node.js, and Typescript"],
+        "professionalSummary":"I'm a software engineer based in Lagos Nigeria. I have worked in a number of great companies and have developed different types of both front-end and back-end applications.",
+        "callToActionsContent":["View portfolio", "Contact"]
+    },
+    "portfolioData": [               
+        {
+            "image":"/images/isw4.png",
+            "title":"payment as a service portal",
+            "summary":"A multitenancy application that Financial institutes can subscribe to, to perform a number of financial operations. It  reports up-to-date information to the app admins. It compares the client business to their competitors and generate actionable data.",
+            "url": "string",
+            "company":"Interswitch",
+            "technologies":["React", "Redux", "Next.js", "Jenkins","Postilion", "EFT technologies", "Git", "Github", "AWS"]
+        },
+        {
+            "image":"/images/spm1.png",
+            "title":"Supermart Express",
+            "summary": "This application enable an online grocery delivery service, ",
+            "url": "https://www.supermart.ng",
+            "company":"Interswitch"
+        },
+        {
+            "image":"/images/profpoint.png",
+            "title": "Profipoint Agency",
+            "summary":"A branding agency that helps businesses establish a strong and recognizable brand online, which can lead to increased customer loyalty and better business results. They Create branding strategies for businesses such as a brand name, logos and designs.",
+            "url": "http://profipoint.epizy.com/?i=2",
+            "company":"Interswitch"
+        }
+    ],
+    "experiences": [
+        {
+            "company":"Interswitch",
+            "JobTitle":"software engineer",
+            "datStarted":"Dececmber 2021",
+            "dateEnd": "till date",
+            "companyUrl":"https://www.interswitchgroup.com",
+            "projectDone": [
+                "I developed a user interface of a payment as a service (Paas) portal. This enables financial institutions to get real-time transaction records.",
+                "I developed a user interface of a reward managent portal that enables cooperative organizations to reward their customers during their promo period using our automated reward portal",                
+                "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, React, Next.js",
+                "I managed communication with multi-disciplinary teams of engineers, designers, product owners, programme managers, quality assurance engineers and clients on a daily basis"
+            ],
+            "technologies":["React", "Redux", "Next.js", "Jenkins","Postilion", "EFT technologies", "Git", "Github", "AWS"]
+        },
+        {
+            "company":"Supermart",
+            "JobTitle":"Front end developer",
+            "datStarted":"March 2020",
+            "dateEnd": "March 2022",
+            "companyUrl":"https://www.supermart.ng",
+            "projectDone": [
+                "I Developed an e-commerce site for groceries products. I simplified checkout process and I enabled user select a delivery window and location",
+                "I automated and simplified inventory records by creating an Inventory Management System for the admins using a javascript framework",
+                "I worked with the marketing team to increase the sales of the company by about 23% by implement SEO of the company's site which generate very good number of organic traffic for the company "
+            ],
+            "technologies":["Angular", "RxJS", "Node", "Vue.js", "Git", "Github", "AWS"]
+        },
+        {
+            "company":"OneKioskAfrica",
+            "JobTitle":"Full stack engineer",
+            "datStarted":"September 2019",
+            "dateEnd": "March 2020",
+            "companyUrl":"",
+            "projectDone": [
+                "I Worked with a team of 5 to build an e-commerce platform where users can make orders and get their orders delivered within 60 minutes.",
+                "I optimized the customer-facing application by reviewing and refactoring the front-end codebase.", "I refactored the back-end technology by modifying the logic of handlers; handling some endpoints and ensuring the failing tests were passed, fixed travisCI and continuous delivery integration issues."
+            ],
+            "technologies":["React", "Redux", "Node", "Express", "Cloudinary", "Git", "Github", "AWS"]
+        },
+        {
+            "company":"Andela",
+            "JobTitle":"Full stack engineer",
+            "datStarted":"August 2018",
+            "dateEnd": "September 2019",
+            "companyUrl":"",
+            "projectDone": [
+                "I Built an in-house traveling management application",
+                "I leaned the configuration of automated and unit testing with Jest and Jasmine.",
+                "I Learned and practiced the agile methodology, project management, daily stand-up, retrospect planning, and communication management among the stakeholders to build a project that enables the company to track all the staff traveling records easily"
+            ],
+            "technologies":[" React", "Redux", " Node", " Express", " Cloudinary", " Git", " Github", " Jest", " jasmine"]
+        }
+    ],
+    "contactInfo":{
+        "phoneNo":"07035853137",
+        "email":"aderemiibrahim11@gmail.com",
+        "address":"Osun, Nigeria",
+        "facebook":"",
+        "github":"",
+        "discord":"",
+        "twitter":"",
+        "linkedln":""
+    },
+    "appConfig":{
+        "primaryColor":"#0D74FF",
+        "secondaryColor":"#02054B",
+        "tertiaryColor":"red"
+    },
+    "about":{
+        "details":"I'm a software engineer with over 5 years of experience. I'm an inquisitive type of person. My strong passion for technology coupled with the curious nature of mine has helped me greatly to go far in my career as a software engineer. As a software engineer  who has an experience in fintech and e-commerce, I have a strong background in building and maintaining web applications using technologies such as React, Next.js, Redux, Express, and Node.js. I have experience in building and deploying scalable and robust web applications, and have a deep understanding of web development best practices and design patterns. My expertise in these technologies allows me to create high-performance and user-friendly web applications that meet the needs of both businesses and users. Have had an opportunity to work with some high-profile organizations both in Nigeria and across Africa as a whole and have had an opportunity to contribute to making some progressive decisions that shape the technology ecosystem in Africa. I love creating software products that add value to the life of the users, meeting new people, and brainstorming. I like to look at things from a different perspective; this has helped my code review skill. Solving challenging and highly technical problems is my best hubby because I love brainstorming. Among my notable achievements in my software engineering journey.",
+        "experience":["Have implemented a feature that assists in SEO implementation", "Have created a configurable multi-tenancy web application", "Have created an application to manage staff/users' authentication and permission.", "Have supported a number of start-up teams to actualize their product release at the stipulated time."],
+        "softSkills":["Process improvement/ waste elimination skill", "Project management skill", "Communication skill"]
+    }
+}
+
