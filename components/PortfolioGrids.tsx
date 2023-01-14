@@ -58,7 +58,7 @@ export const PortfolioGrids = () => {
                         _hover={{ bg: primaryColor }}
                         icon={<MdInfo />}
                       />
-                    <PortfolioGrid reverse={i%2==0} img={itms.image} left={i%2==0?0:600} content={itms.summary} title={itms.title} cur={i+1} showIndex={showIndex} />
+                    <PortfolioGrid reverse={i%2==0} img={itms.image} left={i%2==0?0:600} content={itms.summary} title={itms.title} cur={i+1} showIndex={showIndex} url={itms.url} />
                 </Flex>)
             })
         }

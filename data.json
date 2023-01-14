@@ -11,7 +11,7 @@
             "image":"/images/isw4.png",
             "title":"payment as a service portal",
             "summary":"A multitenancy application that Financial institutes can subscribe to, to perform a number of financial operations. It  reports up-to-date information to the app admins. It compares the client business to their competitors and generate actionable data.",
-            "url": "string",
+            "url": "https://www.interswitchgroup.com/",
             "company":"Interswitch",
             "technologies":["React", "Redux", "Next.js", "Jenkins","Postilion", "EFT technologies", "Git", "Github", "AWS"]
         },
