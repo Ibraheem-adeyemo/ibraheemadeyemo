@@ -39,7 +39,7 @@ export const MobileNavbar = () => {
     const p = 15, placement='left'
    
     return(
-        <Flex p={10} justifyContent='space-between' display={{base:'flex', lg:'none'}}>
+        <Flex px={{base:0, md:10}} py={10} justifyContent='space-between' display={{base:'flex', lg:'none'}}>
             <Text>Ibraheem</Text>
             <Box>
             <Button bg='#0D74FF' onClick={onOpen} width={20} p={2}>
